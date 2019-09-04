@@ -45,9 +45,6 @@ body{
     background-color: lightgrey;
 }
 
-.content p{
-    margin: 20px;
-}
 
 .sidebar{
     width:30%;
@@ -57,4 +54,22 @@ body{
 
 .sidebar p{
     margin: 20px;
+}
+
+.blog-post{
+    background-color: white;
+    margin: 10px;
+    border: 1px solid #3d3d3d;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.blog-post p{
+    margin: 10px;
+}
+
+.image{
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
